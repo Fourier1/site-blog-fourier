@@ -25,7 +25,7 @@ SECRET_KEY = '!wn&7knxng0-h)qiy=v+7(m%*6re^6cw&%s#y48&a%rm-+^@-i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', 'onesyme.pythonanywhere.com']
 
 
 # Application definition
